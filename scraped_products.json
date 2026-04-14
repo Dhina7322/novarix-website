@@ -1,0 +1,51 @@
+[
+  {
+    "id": "chyrix-ap",
+    "name": "CHYRIX  - AP",
+    "image": "/images/chyrix-ap.jpg",
+    "category": "Pharmaceuticals",
+    "description": "High-quality pharmaceutical product from Novarix Healthcare."
+  },
+  {
+    "id": "reciron",
+    "name": "RECIRON",
+    "image": "/images/reciron.jpg",
+    "category": "Pharmaceuticals",
+    "description": "High-quality pharmaceutical product from Novarix Healthcare."
+  },
+  {
+    "id": "monterix-l-kid",
+    "name": "MONTERIX - L kid",
+    "image": "/images/monterix-l-kid.jpg",
+    "category": "Pharmaceuticals",
+    "description": "High-quality pharmaceutical product from Novarix Healthcare."
+  },
+  {
+    "id": "panerix-40-mg",
+    "name": "PANERIX - 40 mg",
+    "image": "/images/panerix-40-mg.jpg",
+    "category": "Pharmaceuticals",
+    "description": "High-quality pharmaceutical product from Novarix Healthcare."
+  },
+  {
+    "id": "cholerix-d3",
+    "name": "CHOLERIX - D3",
+    "image": "/images/cholerix-d3.jpg",
+    "category": "Pharmaceuticals",
+    "description": "High-quality pharmaceutical product from Novarix Healthcare."
+  },
+  {
+    "id": "nexorix-dsr",
+    "name": "NEXORIX- DSR",
+    "image": "/images/nexorix-dsr.jpg",
+    "category": "Pharmaceuticals",
+    "description": "High-quality pharmaceutical product from Novarix Healthcare."
+  },
+  {
+    "id": "aceclorix-mr",
+    "name": "ACECLORIX-MR",
+    "image": "/images/aceclorix-mr.jpg",
+    "category": "Pharmaceuticals",
+    "description": "High-quality pharmaceutical product from Novarix Healthcare."
+  }
+]
